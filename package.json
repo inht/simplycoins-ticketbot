@@ -1,0 +1,21 @@
+{
+  "name": "simply-coins",
+  "version": "2.1.0-ALPHA",
+  "description": "Custom discord bot created for Simply Coins, so it can preform tasks of many bots in one.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "edit-json-file": "^1.5.0",
+    "i": "^0.3.6",
+    "nodemon": "^2.0.6",
+    "npm": "^6.14.8",
+    "path": "^0.12.7",
+    "time-stamp": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tinh#0001",
+  "license": "ISC"
+}
